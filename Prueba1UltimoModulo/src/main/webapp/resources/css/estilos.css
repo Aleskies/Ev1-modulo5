@@ -1,0 +1,39 @@
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form {
+  width: 450px;
+}
+
+.fondo{
+	background-color: #61c0bf;
+}
+
+.titulotabla{
+	background-color: #bbded6;
+	text-decoration:blink;
+	text-align: center;
+}
+
+.formulario { 
+	width: auto;
+}
+
+.tabla{
+	border: solid 1px;
+	margin-top: 30px;
+	justify-content:center;
+	border-radius: 10px;
+	padding: 20px;
+	box-shadow: black 1px 10px 10px; 
+	align-items: center; 
+	align-content: center;
+	display: flex;
+}
+
+.error{
+	color: red;
+}
